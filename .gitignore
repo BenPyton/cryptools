@@ -1,0 +1,12 @@
+./bin
+./tmp
+*.encrypted
+*.decrypted
+*.o
+*.png
+*.jpg
+*.mp3
+*.txt
+*.zip
+*.7z
+*.exe
